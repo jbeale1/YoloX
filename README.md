@@ -1,5 +1,4 @@
 # YoloX
-Experiments with object detection
 
 I am experimenting with the YoloX-X detector from https://modelplace.ai/models/49
 
